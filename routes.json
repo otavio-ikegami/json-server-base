@@ -1,3 +1,7 @@
 {
-  "users": 600
+  "users": 600,
+    "hobbies": 640,
+    "tasks": 644,
+    "favgames": 600,
+    "dreams": 664
 }

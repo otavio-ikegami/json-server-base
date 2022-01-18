@@ -7,5 +7,53 @@
       "age": 38,
       "id": 1
     }
+  ],
+  "hobbies": [
+    {
+      "game": "Monster hunter",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "hobby": "Watch movies",
+      "userId": 1,
+      "id": 2
+    }
+  ],
+  "tasks": [
+    {
+      "task": "Homework",
+      "date": "tomorrow",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "task": "Homework",
+      "date": "tomorrow",
+      "userId": 1,
+      "id": 2
+    }
+  ],
+  "favgames": [
+    {
+      "game": "Monster hunter",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "game": "Monster hunter",
+      "userId": 1,
+      "id": 2
+    }
+  ],
+  "dreams": [
+    {
+      "dream": "Own a house",
+      "id": 1
+    },
+    {
+      "dream": "Own a house",
+      "id": 2
+    }
   ]
 }

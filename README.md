@@ -22,3 +22,22 @@ POST /login <br/>
 POST /signin
 
 Qualquer um desses 2 endpoints pode ser usado para realizar login com um dos usuários cadastrados na lista de "Users"
+
+### Rotas
+As rotas criadas foram tasks, hobbies, favgames e dreams.
+
+### Hobbies 
+
+Os hobbies aceitam apenas objetos escritos pelo dono dos recursos e pode ser lido por qualquer um logado.
+
+### tasks
+
+As tasks podem ser escritas apenas pelo dono do recurso mas pode seer lido por qualquer um.
+
+### favgames 
+
+Os jogos favoritos podem ser apenas escritos e lidos pelo dono do recurso.
+
+### dreams 
+
+Os sonhos podem ser escritos por qualquer um logado e lido por qualquer um.
