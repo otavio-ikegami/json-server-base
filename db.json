@@ -8,52 +8,49 @@
       "id": 1
     }
   ],
-  "hobbies": [
+  "cart": [],
+  "products": [
     {
-      "game": "Monster hunter",
-      "userId": 1,
-      "id": 1
+      "id": 1,
+      "name": "Hamburguer",
+      "category": "Sanduíches",
+      "price": 14,
+      "img": "https://i.ibb.co/fpVHnZL/hamburguer.png"
     },
     {
-      "hobby": "Watch movies",
-      "userId": 1,
-      "id": 2
-    }
-  ],
-  "tasks": [
-    {
-      "task": "Homework",
-      "date": "tomorrow",
-      "userId": 1,
-      "id": 1
+      "id": 2,
+      "name": "X-Burguer",
+      "category": "Sanduíches",
+      "price": 16,
+      "img": "https://i.ibb.co/djbw6LV/x-burgue.png"
     },
     {
-      "task": "Homework",
-      "date": "tomorrow",
-      "userId": 1,
-      "id": 2
-    }
-  ],
-  "favgames": [
-    {
-      "game": "Monster hunter",
-      "userId": 1,
-      "id": 1
+      "id": 3,
+      "name": "Big Kenzie",
+      "category": "Sanduíches",
+      "price": 18,
+      "img": "https://i.ibb.co/FYBKCwn/big-kenzie.png"
     },
     {
-      "game": "Monster hunter",
-      "userId": 1,
-      "id": 2
-    }
-  ],
-  "dreams": [
-    {
-      "dream": "Own a house",
-      "id": 1
+      "id": 4,
+      "name": "Fanta Guaraná",
+      "category": "Bebidas",
+      "price": 5,
+      "img": "https://i.ibb.co/cCjqmPM/fanta-guarana.png"
     },
     {
-      "dream": "Own a house",
-      "id": 2
+      "id": 5,
+      "name": "Coca",
+      "category": "Bebidas",
+      "price": 4.99,
+      "img": "https://i.ibb.co/fxCGP7k/coca-cola.png"
+    },
+    {
+      "id": 6,
+      "name": "Fanta",
+      "category": "Bebidas",
+      "price": 4.99,
+      "img": "https://i.ibb.co/QNb3DJJ/milkshake-ovomaltine.png"
     }
   ]
 }
