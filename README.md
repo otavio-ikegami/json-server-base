@@ -23,21 +23,14 @@ POST /signin
 
 Qualquer um desses 2 endpoints pode ser usado para realizar login com um dos usuários cadastrados na lista de "Users"
 
-### Rotas
-As rotas criadas foram tasks, hobbies, favgames e dreams.
+###  users
 
-### Hobbies 
+Os users será utilizado para cadastrar e logar os usuários, aceitando o email e password. 
 
-Os hobbies aceitam apenas objetos escritos pelo dono dos recursos e pode ser lido por qualquer um logado.
+### cart
 
-### tasks
+O cart armazena os produtos que o usuário adicionar ao carrinho, podendo apenas adicionar um de cada produto. Necessário estar logado para visualizar e adicionar itens.
 
-As tasks podem ser escritas apenas pelo dono do recurso mas pode seer lido por qualquer um.
+### products 
 
-### favgames 
-
-Os jogos favoritos podem ser apenas escritos e lidos pelo dono do recurso.
-
-### dreams 
-
-Os sonhos podem ser escritos por qualquer um logado e lido por qualquer um.
+Os produtos estão armazenados no products, possível ser editado apenas pelo dono do recurso e livre para qualquer usuário visualisar, mesmo sem estar logado.
